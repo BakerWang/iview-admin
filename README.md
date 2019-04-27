@@ -1,13 +1,13 @@
 <p align="center">
     <a href="https://www.iviewui.com">
-        <img width="200" src="https://file.iviewui.com/logo.svg">
+        <img width="200" src="https://file.iviewui.com/logo-new.svg">
     </a>
 </p>
 
 # iView Admin
 [![](https://img.shields.io/travis/iview/iview-admin.svg?style=flat-square)](https://travis-ci.org/iview/iview-admin)
 [![vue](https://img.shields.io/badge/vue-2.5.13-brightgreen.svg?style=flat-square)](https://github.com/vuejs/vue)
-[![iview ui](https://img.shields.io/badge/iview-2.8.0-brightgreen.svg?style=flat-square)](https://github.com/iview/iview)
+[![iview ui](https://img.shields.io/badge/iview-3.0.0-brightgreen.svg?style=flat-square)](https://github.com/iview/iview)
 [![npm](https://img.shields.io/npm/l/express.svg)]()
 
 
@@ -16,7 +16,7 @@
 
 [使用教程](https://github.com/iview/iview-admin/wiki)
 
-[在线访问](https://iview.github.io/iview-admin)
+[在线访问](https://admin.iviewui.com/)
 
 [English Doc](https://github.com/iview/iview-admin/blob/dev/README_EN.md)
 
@@ -24,10 +24,12 @@
 
 `注：在线版本会在开发版本新小版本发布后更新到相应版本，所以如果想体验最新版本iview-admin，请clone完整项目代码到本地运行。`
 
-## 2.0版本预告 Feature
+## 2.0版本预告 Feature 
+`2.0版本现已公测，可以从2.0分支clone到本地，更多组件正在开发中.`
 
-- 使用Vue-cli作为项目脚手架
-- 使用Webpack4版本（待定）
+`Version 2.0 is now open beta, can be cloned from the 2.0 branch to the local, more components are under development.`
+
+- Webpack4 + Vue-cli3.0
 - 重整项目结构，更好封装组件
 - 新增更多组件
 - 多级菜单
